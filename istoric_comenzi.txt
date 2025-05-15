@@ -1,0 +1,10 @@
+Ingrediente: salam, rosii, paine, branza, Dimensiune: 120g, Locatie: 1 decembrie 1918
+Ingrediente: d, Dimensiune: d, Locatie: d
+Ingrediente: w, Dimensiune: wdxa, Locatie: saxd
+Ingrediente: d, Dimensiune: a, Locatie: d
+Comanda aleasa: Burger, Cantitate: 5, Locatie: 12231
+Comanda aleasa: Pizza, Cantitate: 10, Locatie: 
+Comanda aleasa: Burger, Cantitate: 5, Locatie: 1
+Ingrediente: 12w, Dimensiune: 13wss, Locatie: eswed
+Comanda aleasa: Salata, Cantitate: 3, Locatie: 12e3qd
+Comanda aleasa: Salata, Cantitate: 3, Locatie: nehhdn
