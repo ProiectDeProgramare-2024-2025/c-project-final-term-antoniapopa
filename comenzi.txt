@@ -1,0 +1,8 @@
+Pizza
+10
+Burger
+5
+Supa
+3
+Paste
+6
